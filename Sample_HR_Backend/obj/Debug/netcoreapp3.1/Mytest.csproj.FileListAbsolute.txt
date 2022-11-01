@@ -1,0 +1,64 @@
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.exe
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.deps.json
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.runtimeconfig.json
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.runtimeconfig.dev.json
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.pdb
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.csproj.AssemblyReference.cache
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.AssemblyInfoInputs.cache
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.AssemblyInfo.cs
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.csproj.CoreCompileInputs.cache
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.MvcApplicationPartsAssemblyInfo.cache
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\staticwebassets\Mytest.StaticWebAssets.Manifest.cache
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\staticwebassets\Mytest.StaticWebAssets.xml
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mytest.styles.css
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.RazorTargetAssemblyInfo.cache
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.csproj.CopyComplete
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.dll
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.pdb
+F:\My Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.genruntimeconfig.cache
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\My Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.exe
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.deps.json
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.runtimeconfig.json
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.runtimeconfig.dev.json
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Mytest.pdb
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\My Project\MVC Project\Mytest\Mytest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.csproj.AssemblyReference.cache
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.AssemblyInfoInputs.cache
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.AssemblyInfo.cs
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.csproj.CoreCompileInputs.cache
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.MvcApplicationPartsAssemblyInfo.cache
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\staticwebassets\Mytest.StaticWebAssets.Manifest.cache
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\staticwebassets\Mytest.StaticWebAssets.xml
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mytest.styles.css
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.RazorTargetAssemblyInfo.cache
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.csproj.CopyComplete
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.dll
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.pdb
+F:\My Project\MVC Project\Mytest\Mytest\obj\Debug\netcoreapp3.1\Mytest.genruntimeconfig.cache
